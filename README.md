@@ -28,4 +28,7 @@ python viskit/frontend.py path/to/dir/exp*
 Install this repository using pip:
 ```
 pip install -e .
+pip install Jinja2==2.11.2
 ```
+
+
